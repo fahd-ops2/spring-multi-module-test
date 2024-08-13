@@ -1,0 +1,3 @@
+com\example\model\User.class
+com\example\config\UserClient.class
+com\example\service\ApiService.class
